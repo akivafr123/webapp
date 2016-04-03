@@ -2,9 +2,12 @@
   "name": "webapp",
   "version": "1.0.0",
   "description": "Projects from book",
-  "main": "app.js",
+  "main": "main.js",
   "dependencies": {
-    "react": "^0.14.8"
+    "babel-preset-react": "^6.5.0",
+    "babelify": "^7.2.0",
+    "react": "^0.14.8",
+    "react-dom": "^0.14.8"
   },
   "devDependencies": {},
   "scripts": {
@@ -12,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "webapp"
+    "url": "https://github.com/akivafr123/webapp.git"
   },
   "author": "Akiva Friedman-Rosner",
   "license": "ISC"
