@@ -1,0 +1,19 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "Projects from book",
+  "main": "app.js",
+  "dependencies": {
+    "react": "^0.14.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "webapp"
+  },
+  "author": "Akiva Friedman-Rosner",
+  "license": "ISC"
+}
